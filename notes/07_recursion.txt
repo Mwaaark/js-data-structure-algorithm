@@ -1,0 +1,49 @@
+RECURSION
+   a process (a function in our case) that
+   calls itself
+
+   WHY YOU SHOULD CARE?
+
+    IT'S EVERYWHERE
+      - JSON.parse / JSON.stringify
+      - document.getElementById and DOM traversal
+        algorithms
+      - object traversal
+      - we will see it with more complex
+        data structures
+      - it's sometimes a cleaner alternative to
+        iteration
+
+  CALL STACK
+    - it's a stack data structure
+    - any time a function is invoked it is placed
+      (pushed) on the top of the call stack
+    - when JavaScript sees the return keyword
+      or when the function ends, the compiler
+      will remove (pop)
+
+    HOW RECURSIVE FUNCTIONS WORK
+      - invoke the same function with a different
+        input until you reach your base case
+
+      BASE CASE
+        - the condition when the recursion ends
+        - this is the most important concept to
+          understand
+
+    TWO ESSENTIAL PARTS OF A RECURSIVE FUNCTION
+      - base case
+      - different input
+
+    EXAMPLE:
+
+      function countDown(num) {
+        if(num <= 0) {
+          console.log('All done!')
+          return;
+        }
+
+        console.log(num)
+        num--;
+        countDown(num)
+      }

@@ -1,0 +1,22 @@
+PROBLEM SOLVING APPROACH
+
+HOW DO YOU IMPROVE?
+  - devise a plan for solving problems
+
+      UNDERSTAND THE PROBLEM
+
+      EXPLORE CONCRETE EXAMPLES
+
+      BREAK IT DOWN
+
+      SOLVE/SIMPLIFY
+
+      LOOK BACK AND REFACTOR
+
+  - master common problem solving patterns (on the 2nd note)
+
+
+ALGORITHM
+  a process or set of steps to accomplish a certain
+  task
+

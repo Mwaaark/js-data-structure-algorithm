@@ -1,0 +1,19 @@
+RECURSION
+
+  WHERE THINGS GO WRONG
+    - no base case
+    - forgetting to return or returning the
+      wrong thing
+    - stack overflow
+
+  HELPER METHOD RECURSION
+
+    So helper method recursion is just a pattern 
+    where we have an outer function that's not 
+    recursive, which calls an inner function.
+    Which is recursive.
+
+  PURE RECURSION
+    pure recursion, meaning the function itself is totally self contained and it's recursive.
+
+    We don't have some external data structure like we had here.

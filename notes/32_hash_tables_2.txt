@@ -1,0 +1,29 @@
+HASH TABLES (HASH MAP)
+
+  DEALING WITH COLLISIONS
+    even with large array and a great hash
+    function, collisions are inevitable
+    
+    There are many strategies for dealing
+    with collisions, but we'll focus on two:
+
+      - Separate Chaining
+          each index in our array we store values
+          using a more sophisticated data structure
+          (e.g an array or a linked list)
+
+      - Linear Probing
+          when we find a collision, we search through
+           the array to find the next empty slot
+
+  BIG O of HASH TABLES
+
+    Average Case
+      - Insert: 0(1)
+      - Deletion: 0(1)
+      - Access: 0(1)
+
+    Average Case
+      - Insert: 0(1)
+      - Deletion: 0(1)
+      - Access: 0(1)

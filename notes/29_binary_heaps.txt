@@ -1,0 +1,25 @@
+HEAPS
+  another type/category of trees
+
+BINARY HEAPS
+  very similar to a binary search tree, but
+  with some different rules
+
+  in a MaxBinary Heap, parent nodes are
+  always larger than child nodes. In a
+  MinBinary Heap, parent nodes are always
+  smaller than child nodes
+
+  WHY DO WE NEED TO KNOW THIS?
+    Binary heaps are used to implement
+    Priority Queues, which are very commonly
+    used data structures
+
+  INSERT
+    - add to the end
+    - bubble up
+
+  REMOVE / extractMax
+    - remove the root
+    - replace with the most recently added
+    - adjust (sink down)

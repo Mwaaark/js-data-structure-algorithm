@@ -1,0 +1,9 @@
+INTERMEDIATE SORTING ALGORITHMS 
+
+    FASTER SORTS
+        - there is a family of sorting ALGORITHMS
+          that can improve time complexity from
+          O(n^2) to O(n log n)
+        - there's a tradeoff between efficiency and simplicity
+        - the more efficient algorithms are much less simple,
+          and generally take longer to understand

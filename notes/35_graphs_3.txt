@@ -1,0 +1,35 @@
+GRAPHS
+
+    ADJACENCY MATRIX (STORING GRAPHS)
+        In graph theory and computer science, an adjacency 
+        matrix is a square matrix used to represent a finite 
+        graph. The elements of the matrix indicate whether 
+        pairs of vertices are adjacent or not in the graph. 
+        In the special case of a finite simple graph, the 
+        adjacency matrix is a-matrix with zeros on its diagonal
+
+        For undirected graphs, the adjacency matrix is symmetric.
+
+    ADJACENCY LIST (STORING GRAPHS)
+        In graph theory and computer science, an adjacency list 
+        is a collection of unordered lists used to represent a 
+        finite graph. Each unordered list within an adjacency 
+        list describes the set of neighbors of a particular 
+        vertex in the graph.
+
+
+    DIFFERENCE
+        LIST
+            - can take up less space (in sparse graphs)
+              (Sparse graph - is a graph in which the number of 
+              edges is much less than the possible number of 
+              edges)
+            - faster to iterate over all edges
+
+            - can be slower to lookup specific edge
+
+        MATRIX
+            - takes up more space (in sparse graphs)
+            - slower to iterate over all edges
+
+            - faster to lookup specific edge

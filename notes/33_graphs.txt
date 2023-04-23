@@ -1,0 +1,24 @@
+GRAPHS
+    a graph data structure consists of a finite
+    (and possibly mutable) set of vertices or
+    nodes or points, together with a set of
+    unordered pairs of these vertices for an
+    undirected graph or a set of ordered pairs
+    for a directed graph
+
+    is a collection of nodes and connections
+    between those nodes
+
+    USES FOF GRAPHS
+        - Social networks
+        - Location / mapping
+        - Routing algorithms
+        - Visual Hierarchy
+        - File System Optimization
+        - Everywhere!
+
+        Recommendations
+            - "People also watched"
+            - "You might also like..."
+            - "People you might know"
+            - "Frequentlu bought with"

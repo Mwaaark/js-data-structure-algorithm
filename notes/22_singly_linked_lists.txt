@@ -1,0 +1,36 @@
+SINGLY LINKED LISTS
+
+  PUSHING
+    adding a new node to the end of the 
+    linked list
+
+  POPPING
+    removing a node from the end of the
+    linked list
+
+  SHIFTING
+    removing a new node from the beginning
+    of the linked list
+
+  UNSHIFTING
+    adding a new node to the beggining of
+    the linked list
+
+  GET
+    retrieving a node by it's position in
+    the linked list
+
+  SET
+    changing the value of a node based on it's
+    position in the linked list
+
+  INSERT
+    adding a node to the linked list at a 
+    specific position
+
+  REMOVE
+     removing a node from the linked list
+     at a specific position
+
+  REVERSE
+    reversing the linked list in place

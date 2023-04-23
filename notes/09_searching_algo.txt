@@ -1,0 +1,16 @@
+SEARCHING ALGORITHM
+
+  LINEAR SEARCH (arrays)
+
+  BINARY SEARCH (sorted arrays)
+    - is a much faster form of search
+    - rather than eleminating one element at a time,
+      you can eliminate half of the remaining elements
+      at a time
+    - binary search only works on sorted arrays
+
+  NAIVE STRING SEARCHING ALGORITHM
+    - a straightforward approach involves checking
+      pairs of characters individually
+
+  KMP STRING SEARCHING ALGORITHM (not yet posted by Colt)

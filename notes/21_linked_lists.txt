@@ -1,0 +1,20 @@
+LINKED LISTS
+    a data structure that contains a head, tail
+    and length property
+
+    consists of nodes, and each node has a value
+    and a pointer to another node or null 
+
+    COMPARISON
+        LISTS
+            - do not have indexes
+            - connected via notes with a next
+              pointer
+            - random access is not allowed
+            
+        ARRAYS
+            - indexed in order
+            - insertion and deletion can be
+              expensive
+            - can quickly be accesed at a specific
+              index

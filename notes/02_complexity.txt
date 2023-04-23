@@ -1,0 +1,25 @@
+TIME COMPLEXITY
+    - f(n) could be linear (f(n) = n)
+    - f(n) could be quadratic (f(n) = n²)
+    - f(n) could be constant (f(n) = 1)
+    - f(n) could be something entirely different
+
+SPACE COMPLEXITY
+    - how much additional memory do we need to allocate 
+    in order to run the code in our algorithm
+
+    RULES OF THUMB
+        - Most primitives (booleans, numbers, undefined,
+          null) are constant space
+
+        - Strings required O(n) space (where n is the
+          string length)
+
+        - Reference types are generally O(n), where n
+          is the length (for arrays) or the number of keys
+          (for objects)
+
+    Auxiliary space complexity
+        refers to the extra space or the temporary 
+        space that an algorithm uses
+    

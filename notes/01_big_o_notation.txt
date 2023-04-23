@@ -1,0 +1,17 @@
+BIG O NOTATION
+    - system for classifying code you are comparing
+    - is a way to formalize fuzzy counting
+
+    - it allows us to talk formally about how the runtime of an algorithm
+    grows as the inputs grow
+
+What does better mean?
+    faster?
+    less memory-intensive?
+    more readable?
+
+Counting Operations
+                                                                                                                                                                                                      
+
+
+

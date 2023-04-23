@@ -1,0 +1,17 @@
+DATA STRUCTURES
+  are collections of values, the relationships among
+  them, and the functions or operations that can be
+  applied to the data
+
+  THERE IS NO ONE BEST DATA STRUCTURE
+    they all excel in different situations
+
+  WHY CARE?
+    the more time you send as a developer, the more
+    likely you'll need to use one of these data
+    structures
+
+    you've already worked with many of them
+    unknowingly
+
+    and of course... INTERVIEWS

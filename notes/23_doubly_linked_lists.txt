@@ -1,0 +1,43 @@
+DOUBLY LINKED LISTS
+  - almost identical to singly linked lists,
+    except every node has another pointer,
+    to the previous node
+
+COMPARISONS WITH SINGLY LINKED LISTS
+  - more memory === more flexibility,
+    it's almost always a tradeoff
+
+  PUSHING
+    adding a new node to the end of the 
+    doubly linked list
+
+  POPPING
+    removing a node from the end of the
+    doubly linked list
+
+  SHIFTING
+    removing a new node from the beginning
+    of the doubly linked list
+
+  UNSHIFTING
+    adding a new node to the beginning of
+    the doubly linked list
+
+  GET
+    accessing a node in a doubly linked list by 
+    its position
+
+  SET
+    changing the value of a node based on its
+    position in the linked list
+
+  INSERT
+    adding a node to the linked list at a 
+    specific position
+
+  REMOVE
+     removing a node from the linked list
+     at a specific position
+
+  REVERSE
+    reversing the linked list in place

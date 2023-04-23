@@ -1,0 +1,24 @@
+GRAPH TRAVERSAL
+    visiting / updating / checking each vertex
+    in a graph
+
+    GRAPH TRAVERSAL USES
+        - peer to peer networking
+        - web crawlers
+        - finding 'closest' matches / recommendations
+        - shortest path problems
+            - GPS navigation
+            - solving mazes
+            - AI (shortest path to win the game)
+
+
+    DEPTH FIRST 
+        explore as far as possible down one branch
+        before "backtracking"
+
+        RECURSIVE
+
+        ITERATIVE
+
+    BREADTH FIRST
+        visit neighbors at current depth first

@@ -1,0 +1,32 @@
+ES2015 CLASS
+
+  CLASS
+    a blueprint for creating objects with
+    pre-defined properties and methods
+
+    classes are created with the new keyword
+
+
+  CONSTRUCTOR
+    the constructor function is a special function
+    that gets run when the class is instantiated
+
+  INSTANCE METHOD
+    can be added to classes similar to methods
+    in objects
+
+
+  CLASS METHOD
+    class methods can be added using the static
+    ketword
+
+    STATIC
+      - utility method
+      - to call from class itself, not individual 
+        instance
+
+  THIS
+    - inside all of our instance methods and
+      constructor, the keyword 'this' refers
+      to the object created from that class
+      (also known as an instance)

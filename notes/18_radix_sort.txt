@@ -1,0 +1,18 @@
+RADIX SORT
+    - is a special sorting arlogrithm that
+      works on lists of numbers
+
+    - it never makes comparisons between elements
+
+    - it exploits the the fact that information
+      about the size of a number is encoded in
+      the number of digits
+
+    - more digits means bigger number
+
+    RADIX SORT HELPERS
+
+        mostDigits
+
+        getDigit
+

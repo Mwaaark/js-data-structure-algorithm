@@ -1,0 +1,36 @@
+GRAPHS
+
+    ESSENTIAL GRAPH TERMS
+
+        VERTEX
+            a node
+
+        EDGE
+            connection between nodes
+
+        DIRECTED / UNDIRECTED
+            directions assigned to distanced between
+            vertices
+
+    TYPES OF GRAPHS
+
+        UNDIRECTED GRAPH
+            no direction to the edges
+            (point both ways)
+
+            e.g.
+                Facebook friends 
+
+        DIRECTED GRAPH
+            often represented with arrows
+            (could point both ways)
+
+            e.g.
+                Instagram followers
+
+        WEIGHTED GRAPH
+            with assigned value on edges
+
+
+        UNWEIGHTED GRAPH
+            without assigned value on edges

@@ -1,0 +1,5 @@
+PRIORITY QUEUE
+  a data structure where each element
+  has a priority. Elements with higher
+  priorities are served before Elements
+  with lower priorities

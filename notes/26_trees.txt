@@ -1,0 +1,36 @@
+TREES
+  a data structure that consists of nodes in a
+  parent / child relationship
+
+  Lists - linear
+  Trees - nonlinear
+
+  TREE TERMINOLOGIES
+    root
+      the top node in a tree
+
+    child
+      a node directly connected to another node
+      when moving away from the root
+
+    parent
+      the converse notion of a child
+
+    siblings
+      a grop of nodes with the same parent
+
+    leaf
+      a node with no children
+
+    edge
+      the connection between one node and
+      another
+
+  USES FOR TREES
+    - HTML DOM
+    - Network routing
+    - Abstract syntax trees
+    - Artificial intelligence
+    - Folders in operating systems
+    - Computer file systems
+    - JSON

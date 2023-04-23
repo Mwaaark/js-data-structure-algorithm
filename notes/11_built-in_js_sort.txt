@@ -1,0 +1,18 @@
+BUILT IN JS SORT
+
+    sort()
+
+    - built-in sort method accepts an optional
+      comparator function
+    - you can use this comparator function to tell
+      JavaScript how you want it to sort
+    - the comparator looks at apairs of elements
+      (a and b), determines their sort order based
+      on the return value
+        
+        - if it returns a negative number, a should
+          come before b
+        - if it returns a positive number, a should
+          come after b
+        - if it returns 0, a and b are the same as
+          far as the sort is concerned

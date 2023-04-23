@@ -1,0 +1,12 @@
+QUEUES
+  a FIFO data structure
+
+  first in, first out
+
+  enqueue - add queue
+  dequeue - remove queue
+
+  WHERE QUEUES ARE USED
+    - background tasks
+    - uploading resources
+    - printing / task processing
